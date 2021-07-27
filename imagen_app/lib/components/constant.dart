@@ -1,0 +1,14 @@
+class Constant{
+  static final String ARMADURA_DIVINA = 'As Armaduras Divinas (神聖衣, Tenseī, Vestimenta Sagrada Divina, lido como ゴッドクロス, Goddo Kurosu, Vestimenta Divina, do inglês God Cloth) são armaduras que chegam ao mais alto grau de evolução, quando o usuário eleva o seu Cosmo ao máximo a um nível que supere o Arayashiki durante um combate após sua armadura ter entrado em contato com o sangue de Atena ou de outro deus. Essa evolução pode ocorrer mesmo se a armadura original estiver totalmente destruída, sendo capaz de renascer do pó. Essas Armaduras são as existências mais próximas das Kamui dos 12 Deuses Olímpicos, apesar de serem trajes diferentes.';
+  static final String CHORNO_TRIGGER = 'Chrono Trigger (クロノ・トリガー Kurono Torigā?) é um jogo de RPG eletrônico desenvolvido pela Square Co. Foi lançado para o console Super Nintendo no Japão em março de 1995, e uma versão aprimorada para PlayStation foi lançada em novembro de 1999. Uma outra versão do jogo para o console portátil Nintendo DS foi lançada em 25 de novembro de 2008 no Japão e um dia depois nos EUA.[18] O Chrono Trigger também foi portado para telefones celulares i-mode,[19] Virtual Console,[20] PlayStation Network,[21] dispositivos iOS,[22] dispositivos Android,[23] e Microsoft Windows.[24] O jogo foi revolucionário para a época e exige bastante do console, é considerado por muitos um dos melhores jogos já feitos na histórir da série Final Fantasy), Yuji Horii (diretor da série de jogos Dragon Quest), Akira Toriyama (criador de mangás famosos, como Dragon Ball e Dr. Slump), o produtor Kazuhiko Aoki[25] e Nobuo Uematsu (músico de Final Fantasy).[3][26] Toda a equipe trabalhou com a ideia de que este jogo teria de ser revolucionário, envolvendo múltiplos fins, uma história dramática, um bom sistema de batalhas e belos gráficos.[27] No jogo há inúmeras referências a eventos e nomes de mitologias, lendas e História. A trilha sonora de Chrono Trigger é considerada uma obra prima e rendeu um CD triplo no Japão, tornando-se uma das trilhas de videogames de maior sucesso da história. Este trabalho foi a estreia do compositor Yasunori Mitsuda,[26] que contou com o auxílio do veterano Nobuo Uematsu, responsável por outras trilhas de jogos clássicos da Square como Final Fantasy e Secret of Mana.';
+  static final String GAARA_DO_DESERT0 = 'Sabaku No Gaara é um shinobi da Vila Oculta da Areia. Durante seu nascimento, teve selado em seu corpo uma temível criatura conhecida como Suna no Shukaku, o Bijuu de uma cauda. A única pessoa no qual Gaara podia contar era com o seu único tio (Yashamaru) presente em sua vida';
+
+  static final String TITULO1 = 'Armadura Divina';
+  static final String TITULO2 = 'Sabokou No Gaara';
+  static final String TITULO3 = 'Chorno Trigger';
+
+  static final String IMAGEM1 = 'imagens/seiya_divino.png';
+  static final String IMAGEM2 = 'imagens/gaara_png.png';
+  static final String IMAGEM3 = 'imagens/chorno_trigger.png';
+
+}
